@@ -1,0 +1,18 @@
+{ "permission" :
+    [
+    {"permissions":["View Movies","Create Movies","Delete Movies","Update Movies","View Subscriptions","Create Subscriptions","Delete Subscriptions","Update Subscriptions"],
+        "_id":"1","userID":"601bc3905129519f3cb04571"},
+    {"permissions":["View Movies","Update Movies","View Subscriptions","Create Subscriptions"],
+        "_id":"2","userID":"6023a278dd7ac07944eea04d"},
+    {"permissions":["View Movies","Create Movies","View Subscriptions","Create Subscriptions","Delete Subscriptions","Update Subscriptions"],
+        "_id":"3","userID":"602d1d24330dd511e8df1ab9"},
+    {"permissions":["View Movies","Create Movies","Delete Movies","Update Movies","View Subscriptions"],
+        "_id":"4","userID":"602d2067330dd511e8df1ac0"},
+    {"permissions":["View Movies","Create Movies","Delete Movies","Update Movies","View Subscriptions","Create Subscriptions"],
+        "_id":"5","userID":"602d268a330dd511e8df1b08"},
+    {"permissions":["View Movies","View Subscriptions","Create Subscriptions","Delete Subscriptions","Update Subscriptions"],
+        "_id":"6","userID":"6034d75777298292ec49162e"},
+    {"permissions":["View Movies","Update Movies","View Subscriptions","Create Subscriptions"],
+        "_id":"9","userID":"6023a278dd7ac07944eea04d"}
+        ]
+    }

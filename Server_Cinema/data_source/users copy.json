@@ -1,0 +1,45 @@
+{ "users" :[
+            {
+                "_id": "601bc3905129519f3cb04571",
+                "firstName": "Avi",
+                "lastName": "Levi",
+                "created": "2000-01-01",
+                "sessionTimeOut": 45
+            },
+            {
+                "_id": "6023a278dd7ac07944eea04d",
+                "firstName": "Tal",
+                "lastName": "Navon",
+                "created": "2020-01-01",
+                "sessionTimeOut": 25
+            },
+            {
+                "_id": "602d1d24330dd511e8df1ab9",
+                "firstName": "Benny",
+                "lastName": "Regev",
+                "created": "2021-02-17",
+                "sessionTimeOut": 40
+            },
+            {
+                "_id": "602d2067330dd511e8df1ac0",
+                "firstName": "Noam",
+                "lastName": "Rahat",
+                "created": "2021-02-17",
+                "sessionTimeOut": 30
+            },
+            {
+                "_id": "602d268a330dd511e8df1b08",
+                "firstName": "Michal",
+                "lastName": "Avraham",
+                "created": "2010-01-01",
+                "sessionTimeOut": 25
+            },
+            {
+                "_id": "6034d75777298292ec49162e",
+                "firstName": "Beni",
+                "lastName": "Levi",
+                "created": "2021-02-23",
+                "sessionTimeOut": 15
+            }
+        ]
+    }
